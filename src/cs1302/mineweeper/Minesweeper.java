@@ -7,12 +7,6 @@ import java.io.*;
 import java.awt.event.*;
 import javax.swing.*;
 
-/**
- * This class represents the GUI for the Minesweeper game application. It is a
- * subclass of JPanel and therefore inherits all of JPanel's methods.
- 
- * @authors NATHANAEL ADAM MULLENNIX <nathanm@uga.edu>(204) MATTHEW BARON <mbaron@uga.edu>(838)
- */
 
 
 
